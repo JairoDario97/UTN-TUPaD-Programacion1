@@ -1,4 +1,4 @@
-#Práctico 3: Estructuras condicionales
+#Práctico 3: Estructuras condicionales.
 #ACTIVIDAD 1
     #defino la edad minima y pido al usuario su edad.
 edad_minima = 18
